@@ -15,7 +15,7 @@ to previous or next song or to mute the video.
 
 ### Screenshots
 
-![](https://github.com/ritikrox/Youtube-Handler/blob/master/Screenshots/Screenshot%20(5).png)
-![](https://github.com/ritikrox/Youtube-Handler/blob/master/Screenshots/Screenshot%20(6).png)
-![](https://github.com/ritikrox/Youtube-Handler/blob/master/Screenshots/Screenshot%20(7).png)
+![](https://github.com/Mr-Right-Guy/youtube-handler/blob/main/Screenshots/Screenshot%20(5).png)
+![](https://github.com/Mr-Right-Guy/youtube-handler/blob/main/Screenshots/Screenshot%20(6).png)
+![](https://github.com/Mr-Right-Guy/youtube-handler/blob/main/Screenshots/Screenshot%20(7).png)
 
