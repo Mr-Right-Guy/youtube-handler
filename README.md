@@ -19,6 +19,3 @@ to previous or next song or to mute the video.
 ![](https://github.com/ritikrox/Youtube-Handler/blob/master/Screenshots/Screenshot%20(6).png)
 ![](https://github.com/ritikrox/Youtube-Handler/blob/master/Screenshots/Screenshot%20(7).png)
 
-### Video Link :
-
-[Video](https://www.youtube.com/watch?v=ke3F5naivTE)
